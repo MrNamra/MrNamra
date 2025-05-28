@@ -13,7 +13,7 @@ I'm a **backend web developer** passionate about creating **scalable web applica
 
 ## 🎓 Education  
 🎓 **MSc IT (Pursuing)** – SRKI  
-🎓 **BSc IT (2020 - 2024)** – SRKI (**CGPA: 8.61**)  
+🎓 **BSc IT (2020 - 2024)** – SRKI
 
 ---
 
@@ -48,7 +48,6 @@ I'm a **backend web developer** passionate about creating **scalable web applica
 ---
 
 ## 📫 Let's Connect  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mrnamra)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namra-ramsha-6694a233a)  
 📧 **Email**: namraramsha@yahoo.com
 
