@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Namra</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=435&lines=Backend+Web+Developer;PHP+%7C+Node.js+%7C+Laravel;Linux+Server+%7C+Docker+%7C+AWS;API+Developer+for+Mobile+and+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=435&lines=Backend+Web+Developer;PHP+%7C+Laravel+%7C+NodeJS+;Linux+Server+%7C+Docker+%7C+AWS;Developer+for+Mobile+and+Web+Apps" alt="Typing SVG" />
 </p>
 
 ---
