@@ -12,7 +12,7 @@ I'm a **backend web developer** passionate about creating **scalable web applica
 ---
 
 ## 🎓 Education  
-🎓 **MSc IT (Pursuing)** – SRKI  
+🎓 **MSc IT (2024 - 2026)** – SRKI  
 🎓 **BSc IT (2020 - 2024)** – SRKI
 
 ---
